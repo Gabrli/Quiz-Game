@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: #101010;
+    
+    
+}
+.border-body{
+    width: 1655px;
+    height: 805px;
+    border: 6px solid darkred;
+}
+.main-nag{
+    font-size: 70px;
+    color: #fff;
+    position: fixed;
+    top: 200px;
+    left: 470px;
+    
+
+}
+.btn{
+    background-color: darkred;
+    width: 150px;
+    height: 40px;
+    position: fixed;
+    top: 420px;
+    left: 760px;
+    color: #fff;
+    border-radius: 15px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+#zegar{
+    color: #fff;
+    position: fixed;
+    top: 50px;
+    left: 1500px;
+    font-size: 25px;
+}
+.btn:hover{
+    background-color: red;
+}
